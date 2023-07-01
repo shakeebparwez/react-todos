@@ -1,15 +1,13 @@
 # React Todo App
 
-This is a simple Todo application built using React and Material UI. It allows users to manage their tasks by adding, editing, and marking them as completed. The app is designed to be user-friendly with an intuitive interface.
+This is a simple Todo application built using React and Material UI. It allows users to manage their tasks by adding, and marking them as completed. The app is designed to be user-friendly with an intuitive interface.
 
 ![screenshot](app_screenshot.png)
 
 ## Features
 
 - Add new tasks: Users can enter a task description and add it to their todo list.
-- Edit tasks: Users can edit the description of existing tasks.
 - Mark tasks as completed: Users can mark tasks as completed, indicating that they have been finished.
-- Filter tasks: Users can filter their tasks by their completion status (all, active, completed).
 - Delete tasks: Users can remove tasks from the todo list.
 - Responsive design: The app is fully responsive and works seamlessly across different devices.
 
